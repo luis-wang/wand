@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-
+#just test
 # Python MagickWand bindings can be obtained from https://github.com/dahlia/wand
 from wand.image import Image
 
